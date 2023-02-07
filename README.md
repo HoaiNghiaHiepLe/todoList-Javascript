@@ -1,4 +1,4 @@
-This to do list app has many functions that can create, edit and delete to do list, check completed, filter list. User list will be saved in local storage and will be loaded the next time you open the app.
+This todo list app has many functions that can create, edit and delete todo list, check completed, filter list. The list of users will be saved in local storage and will be loaded the next time you open the app.
 
 # Technologies in use
 
